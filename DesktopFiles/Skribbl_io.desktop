@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Skribbl.io
+Comment=Skribbl.io Web App
+Exec=/home/pi/webapps/Skribbl.sh
+Icon=/home/pi/webapps/icons/scirbbl.png
+Path=/home/pi/webapps
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Geforce Now
+Comment=Geforce Now Web App
+Exec=/home/pi/webapps/geforcenow.sh
+Icon=/home/pi/webapps/icons/geforcenow.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

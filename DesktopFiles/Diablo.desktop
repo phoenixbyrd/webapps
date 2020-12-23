@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Diablo
+Comment=Diablo Web App
+Exec=/home/pi/webapps/diablo.sh
+Icon=/home/pi/webapps/icons/diablo.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

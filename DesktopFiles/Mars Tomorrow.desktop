@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mars Tomorrow
+Comment=Mars Tomorrow Web App
+Exec=/home/pi/webapps/MarsTomorrow.sh
+Icon=/home/pi/webapps/icons/MarsTomorrow.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

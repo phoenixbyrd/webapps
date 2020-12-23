@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Xfinity Stream
+Comment=XFinity Stream Web App
+Exec=/home/pi/webapps/xfinity.sh
+Icon=/home/pi/webapps/icons/xfinity.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

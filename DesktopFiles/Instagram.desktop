@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Instagram
+Comment=Instagram Web App
+Exec=/home/pi/webapps/instagram.sh
+Icon=/home/pi/webapps/icons/instagram.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

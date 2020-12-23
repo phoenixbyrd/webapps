@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Nyan Cat
+Comment=How long can you go?
+Exec=/home/pi/webapps/TerminalDiversions/nyan.sh
+Icon=/home/pi/webapps/TerminalDiversions/nyancat.png
+Path=/home/pi/webapps/TerminalDiversions
+Categories=Other;
+Terminal=false
+StartupNotify=false

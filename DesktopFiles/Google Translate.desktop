@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Translate
+Comment=Google Translate Web App
+Exec=/home/pi/webapps/GoogleTranslate.sh
+Icon=/home/pi/webapps/icons/GoogleTranslate.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Zoom
+Comment=Zoom Web App
+Exec=/home/pi/webapps/zoom.sh
+Icon=/home/pi/webapps/icons/zoom.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Bflix
+Comment=Bflix.to Web App
+Exec=/home/pi/webapps/bflix.sh
+Icon=/home/pi/webapps/icons/bflix.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

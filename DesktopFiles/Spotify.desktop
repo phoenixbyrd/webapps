@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Spotify
+Comment=Spotify Web App
+Exec=/home/pi/webapps/spotify.sh
+Icon=/home/pi/webapps/icons/spotify.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

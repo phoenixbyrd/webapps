@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Youtube
+Comment=Youtube Web App
+Exec=/home/pi/webapps/youtube.sh
+Icon=/home/pi/webapps/icons/youtube.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

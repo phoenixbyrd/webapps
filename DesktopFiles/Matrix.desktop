@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Matrix
+Comment=How far does this rabbit hole go?
+Exec=/home/pi/webapps/TerminalDiversions/redpill.sh
+Icon=/home/pi/webapps/TerminalDiversions/matrix.png
+Path=/home/pi/webapps/TerminalDiversions
+Categories=Other;
+Terminal=false
+StartupNotify=false

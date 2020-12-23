@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=rick
+Comment=Never Gonna Give You Up ...
+Exec=/home/pi/webapps/TerminalDiversions/rickroll.sh
+Icon=/home/pi/webapps/TerminalDiversions/rick.png
+Path=/home/pi/webapps/TerminalDiversions
+Categories=Other;
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Skype
+Comment=Skype Web App
+Exec=/home/pi/webapps/skype.sh
+Icon=/home/pi/webapps/icons/Skype.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Telegram
+Comment=Telegram Web App
+Exec=/home/pi/webapps/telegram.sh
+Icon=/home/pi/webapps/icons/telegram.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cowsay
+Comment=
+Exec=/home/pi/webapps/TerminalDiversions/cowsay.sh
+Icon=/home/pi/webapps/TerminalDiversions/cowsay.png
+Path=
+Categories=Other;
+Terminal=false
+StartupNotify=false
