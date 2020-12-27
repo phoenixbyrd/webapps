@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Redax Sounds
+Comment=Redax Sounds Web App
+Exec=/home/pi/webapps/redaxsounds.sh
+Icon=/home/pi/webapps/icons/redaxsounds.png
+Path=
+Terminal=false
+StartupNotify=false
