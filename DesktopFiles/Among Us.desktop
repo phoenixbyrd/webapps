@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Among Us Freeplay
+Comment=Among Us Freeplay Web App
+Exec=/home/pi/webapps/amongus.sh
+Icon=/home/pi/webapps/icons/amongus.png
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Treasure Arena
+Comment=Treasure Arena Web App
+Exec=/home/pi/webapps/treasurearena.sh
+Icon=/home/pi/webapps/icons/treasurearena.png
+Path=
+Terminal=false
+StartupNotify=false
