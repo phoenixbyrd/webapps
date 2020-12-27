@@ -6,8 +6,35 @@ git pull
 #Add new apps to menu
 cp /home/pi/webapps/DesktopFiles/* /home/pi/.local/share/applications/
 
-
-sudo apt install fortune lolcat cowsay telnet nyancat cmatrix -y
+#Install dependencies for Terminal Diversions
+if [ $(dpkg-query -W -f='${Status}' fortune 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt install fortune -y;
+fi
+if [ $(dpkg-query -W -f='${Status}' lolcat 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt install lolcat -y;
+fi
+if [ $(dpkg-query -W -f='${Status}' cowsay 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt install cowsay -y;
+fi
+if [ $(dpkg-query -W -f='${Status}' telnet 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt install telnet -y;
+fi
+if [ $(dpkg-query -W -f='${Status}' nyancat 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt install nyancat -y;
+fi
+if [ $(dpkg-query -W -f='${Status}' cmatrix 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt install cmatrix -y;
+fi
+if [ $(dpkg-query -W -f='${Status}' dnsutils 2>/dev/null | grep -c "ok installed") -eq 0 ];
+then
+  sudo apt install dnsutils -y;
+fi
 
 #Install/Update finished
 clear
