@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Entanglement
+Comment=Entanglement Web App
+Exec=/home/pi/webapps/entanglement.sh
+Icon=/home/pi/webapps/icons/entanglement.png
+Path=
+Terminal=false
+StartupNotify=false
