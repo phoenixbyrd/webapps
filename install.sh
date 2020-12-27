@@ -36,6 +36,12 @@ then
   sudo apt install dnsutils -y;
 fi
 
+if [[ ! -f /home/pi/webapps/TerminalDiversions/first ]]
+then
+    sh /home/pi/webapps/TerminalDiversions/rickroll.sh
+    touch /home/pi/webapps/TerminalDiversions/first
+fi
+
 #Install/Update finished
 clear
 
