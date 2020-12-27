@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Twitter
+Comment=Twitter Web App
+Exec=/home/pi/webapps/twitter.sh
+Icon=/home/pi/webapps/icons/twitter.png
+Path=
+Terminal=false
+StartupNotify=false
