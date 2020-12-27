@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=VaporBoy
+Comment=VaporBoy Web App
+Exec=/home/pi/webapps/vaporboy.sh
+Icon=/home/pi/webapps/icons/vaporboy.png
+Path=
+Terminal=false
+StartupNotify=false
