@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Zoom
+Name=Zoom WebApp
 Comment=Zoom Web App
 Exec=/home/pi/webapps/zoom.sh
 Icon=/home/pi/webapps/icons/zoom.png
