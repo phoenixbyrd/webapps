@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Candy Bubble
+Comment=Candy Bubble Web App
+Exec=/home/pi/webapps/CandyBubble.sh
+Icon=/home/pi/webapps/icons/CandyBubble.jpg
+Path=
+Terminal=false
+StartupNotify=false
