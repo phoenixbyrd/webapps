@@ -4,7 +4,7 @@ This will be a growing collection of web apps added for fun
 
 # To Install
 
-- git clone https://github.com/phoenixbyrd/webapps.git
+- git clone https://github.com/bthedorff/webapps.git
 - cd ~/webapps
 - sh install.sh
 
