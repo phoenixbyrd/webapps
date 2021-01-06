@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=Disney Plus
-Comment=Disney Plus streaming
+Comment=Disney Plus Streaming
 Exec=/home/pi/webapps/disneyplus.sh
 Icon=/home/pi/webapps/icons/disneyplus.png
 Path=/home/pi/webapps
