@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie-edge" />
+        <link rel="stylesheet" href="./style.css" />
+        <link rel="icon" href="favicon.png">
+        <title>Twister OS Web Apps Launcher</title>
+    </head>
+    <body onload="window.resizeTo(1200,768)">
+        <ul>
+            <li>
+                <div>
+                    <div class="popup version" id="help">
+                        <p class="title">Twister OS Web Apps Launcher</p><br>
+                        Web Apps are automatically updated.<br><br><br><br>
+                        <p class="close">close</p>
+                    </div>
+                    <p class="btn" data-popup="help"><a class="help" href="#">?</a></p>
+                </div>
+            </li>
+        </ul>
+        <div class="center">
+        <ul class="menu">
+            <li><a href="games.html">GAMES</a></li>
+            <li><a href="multimedia.html">MULTIMEDIA</a></li>
+            <li><a href="social.html">SOCIAL MEDIA</li>
+            <li><a href="utilities.html">UTILITIES</li>
+            <li><a href="#"></a></li>
+        </ul>
+        <hr> 
+        <br><br>
+        <ul>
+            <li><button class="code" onclick="openSWRadio()"><img src="./icons/SWRadio.png"><span class="tooltip">Short Wave Radio</span></button></li>
+            <li><button class="code" onclick="openRedax()"><img src="./icons/redaxsounds.png"><span class="tooltip">Redax Sounds</span></button></li>
+            <li><button class="code" onclick="openBandlab()"><img src="./icons/bandlab.png"><span class="tooltip">Band Lab</span></button></li>
+            <li><button class="code" onclick="openGmail()"><img src="./icons/gmail.svg"><span class="tooltip">GMail</span></button></li>
+            <li><button class="code" onclick="openTranslate()"><img src="./icons/GoogleTranslate.png"><span class="tooltip">Google Translate</span></button></li>
+        </ul>
+        <br>
+        <ul>
+            <li><button class="code"  onclick="openOutlook()"><img src="./icons/outlook.png"><span class="tooltip">Outlook</span></button></li>
+            <li><button class="code" onclick="openScratch()"><img src="./icons/scratch.png"><span class="tooltip">Scratch</span></button></li>
+            <li><button class="code"  onclick="openEarth()"><img src="./icons/earth.png"><span class="tooltip">Google Earth</span></button></li>
+            <li><button class="code"  onclick="openWolfram()"><img src="./icons/wolfram.png"><span class="tooltip">Wolfram</span></button></li>
+            <li><button class="code"  onclick="openProton()"><img src="./icons/proton.png"><span class="tooltip">Proton Mail</span></button></li>
+        </ul>
+        <br>
+        <ul>
+            <li><button class="code"  onclick="openPixlr()"><img src="./icons/pixlr.png"><span class="tooltip">Pixlr</span></button></li>
+            <li><button class="code"  onclick="openPetra()"><img src="./icons/petra.png"><span class="tooltip">Petra</span></button></li>
+        </ul>
+        </div>
+        <script  type="text/javascript" src="apps.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script>
+                $('.btn').click(function(){
+                $('.popup').hide();
+                $('#' + $(this).attr('data-popup')).show();
+                });
+        </script>
+        <script type="text/javascript">
+            $('.close').click(function(){
+                $('.popup').hide();
+                });
+		</script>
+    </body>
+</html>

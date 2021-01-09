@@ -1,5 +1,0 @@
-2021/01/09-16:29:32.472 632e Reusing MANIFEST /home/pi/WebApps/webapps/AppData/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/09-16:29:34.481 6385 Level-0 table #5: started
-2021/01/09-16:29:34.488 6385 Level-0 table #5: 217 bytes OK
-2021/01/09-16:29:34.498 6385 Delete type=0 #3
-2021/01/09-16:29:34.503 6385 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
