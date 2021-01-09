@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Outlook
+Comment=Outlook Web App
+Exec=/home/pi/webapps/outlook.sh
+Icon=/home/pi/webapps/icons/outlook.png
+Path=
+Terminal=false
+StartupNotify=false

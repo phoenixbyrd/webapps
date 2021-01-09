@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Twister OS Web Apps
+Comment=Web applications launcher
+Categories=Network;WebBrowser;
+Exec=/home/pi/WebApps/webapps.sh
+Icon=/home/pi/WebApps/webapps/icons/webapps.png
+Terminal=false
+Type=Application

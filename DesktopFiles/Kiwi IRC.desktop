@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Kiwi IRC
+Comment=Kiwi IRC Web App
+Exec=/home/pi/webapps/kiwiirc.sh
+Icon=/home/pi/webapps/icons/kiwiirc.png
+Path=
+Terminal=false
+StartupNotify=false

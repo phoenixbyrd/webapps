@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gmail
+Comment=Gmail Web App
+Exec=/home/pi/webapps/gmail.sh
+Icon=/home/pi/webapps/icons/gmail.svg
+Path=
+Terminal=false
+StartupNotify=false
