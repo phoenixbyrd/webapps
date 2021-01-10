@@ -317,3 +317,8 @@ function openFreddy() {
   myWindow = window.open("", "", "width=1024, height=768");
   myWindow.location.href = "https://gamasexual.com/c/f/g/five-nights-at-freddys/";
 }
+
+function openDisney() {
+  myWindow = window.open("", "", "width=1200, height=800");
+  myWindow.location.href = "https://www.disneyplus.com/";
+}
