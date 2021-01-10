@@ -2,6 +2,12 @@
 #Grab Updates
 git pull
 
+#Clear Cache
+if [ -d /home/pi/.config/webapps/appData/Default/Cache ]
+then
+    rm -r /home/pi/.config/webapps/appData/Default/Cache
+fi
+
 #Add new apps to menu
 cp /home/pi/WebApps/webapps/DesktopFiles/* /home/pi/.local/share/applications/
 
@@ -17,11 +23,5 @@ then
     touch /home/pi/.first
 fi
 
-#Clear Cache
-if [ -d /home/pi/.config/webapps/Default/Cache ]
-then
-    rm -r /home/pi/.config/webapps/Default/Cache
-fi
-
 #Web apps go brrrr
-chromium-browser %U --user-agent="Mozilla/5.0 (X11; CrOS armv7l 11895.95.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.125 Safari/537.36" --user-data-dir=/home/pi/.config/webapps --app=https://phoenixbyrd.github.io/webapps/games.html  
+chromium-browser %U --user-agent="Mozilla/5.0 (X11; CrOS armv7l 11895.95.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.125 Safari/537.36" --user-data-dir=/home/pi/.config/webapps/appData --app=https://phoenixbyrd.github.io/webapps/games.html  
