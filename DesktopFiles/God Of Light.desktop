@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=God Of Light
+Comment=God Of Light Web App
+Exec=/home/pi/WebApps/webapps/Scripts/godoflight.sh
+Icon=/home/pi/WebApps/webapps/icons/godoflight.jpeg
+Path=
+Terminal=false
+StartupNotify=false

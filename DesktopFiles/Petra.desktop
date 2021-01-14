@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Petra
+Comment=Petra Web App
+Exec=/home/pi/WebApps/webapps/Scripts/petra.sh
+Icon=/home/pi/WebApps/webapps/icons/petra.png
+Path=
+Terminal=false
+StartupNotify=false

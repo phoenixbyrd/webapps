@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pixlr
+Comment=Pixlr Web App
+Exec=/home/pi/WebApps/webapps/Scripts/pixlr.sh
+Icon=/home/pi/WebApps/webapps/icons/pixlr.png
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Load Runner
+Comment=Load Runner Web App
+Exec=/home/pi/WebApps/webapps/Scripts/loadrunner.sh
+Icon=/home/pi/WebApps/webapps/icons/loadrunner.jpeg
+Path=
+Terminal=false
+StartupNotify=false

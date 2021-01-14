@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ioQuake3
+Comment=ioQuake3 Web App
+Exec=/home/pi/WebApps/webapps/Scripts/quake.sh
+Icon=/home/pi/WebApps/webapps/icons/quake.png
+Path=
+Terminal=false
+StartupNotify=false

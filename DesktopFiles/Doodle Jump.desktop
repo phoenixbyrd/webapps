@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Doodle Jump
+Comment=Doodle Jump Web App
+Exec=/home/pi/WebApps/webapps/Scripts/doodlejump.sh
+Icon=/home/pi/WebApps/webapps/icons/doodle.png
+Path=
+Terminal=false
+StartupNotify=false
