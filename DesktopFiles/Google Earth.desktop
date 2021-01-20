@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Earth
+Comment=Google Earth Web App
+Exec=/home/pi/WebApps/webapps/Scripts/googleearth.sh
+Icon=/home/pi/WebApps/webapps/icons/earth.png
+Path=
+Terminal=false
+StartupNotify=false

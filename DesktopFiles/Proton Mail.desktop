@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Proton Mail
+Comment=Proton Mail Web App
+Exec=/home/pi/WebApps/webapps/Scripts/proton.sh
+Icon=/home/pi/WebApps/webapps/icons/proton.png
+Path=
+Terminal=false
+StartupNotify=false

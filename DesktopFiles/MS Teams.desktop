@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MS Teams
+Comment=MS Teams Web App
+Exec=/home/pi/WebApps/webapps/Scripts/msteams.sh
+Icon=/home/pi/WebApps/webapps/icons/msteams.svg.png
+Path=
+Terminal=false
+StartupNotify=false

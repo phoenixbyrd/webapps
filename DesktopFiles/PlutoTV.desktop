@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PlutoTV
+Comment=PlutoTV Web App
+Exec=/home/pi/WebApps/webapps/Scripts/PlutoTV.sh
+Icon=/home/pi/WebApps/webapps/icons/PlutoTv.png
+Path=
+Categories=Other;
+Terminal=false
+StartupNotify=false

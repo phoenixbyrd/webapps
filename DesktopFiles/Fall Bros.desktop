@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Fall Bros
+Comment=Fall Bros Web App
+Exec=/home/pi/WebApps/webapps/Scripts/fallbros.sh
+Icon=/home/pi/WebApps/webapps/icons/fallbros.png
+Path=
+Terminal=false
+StartupNotify=false

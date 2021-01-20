@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=animesuge.io
+Comment=animesuge.io Web App
+Exec=/home/pi/WebApps/webapps/Scripts/animesuge.sh
+Icon=/home/pi/WebApps/webapps/icons/animesuge.jpg
+Path=
+Terminal=false
+StartupNotify=false
