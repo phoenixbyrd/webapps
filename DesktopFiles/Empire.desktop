@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Empire
+Comment=Empire Web App
+Exec=/home/pi/WebApps/webapps/Scripts/empire.sh
+Icon=/home/pi/WebApps/webapps/icons/empire.png
+Path=
+Terminal=false
+StartupNotify=false

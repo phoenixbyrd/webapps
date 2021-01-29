@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Disney Plus
+Comment=Disney Plus Streaming
+Exec=/home/pi/WebApps/webapps/Scripts/disneyplus.sh
+Icon=/home/pi/WebApps/webapps/icons/disneyplus.png
+Path=/home/pi/webapps
+Categories=Other;
+Terminal=false
+StartupNotify=false

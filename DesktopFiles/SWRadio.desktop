@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SWRadio
+Comment=Online Shortwave Radio
+Exec=/home/pi/WebApps/webapps/Scripts/SWRadio.sh
+Icon=/home/pi/WebApps/webapps/icons/SWRadio.png
+Path=
+Categories=Other;
+Terminal=false
+StartupNotify=false

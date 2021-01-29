@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Open Lara
+Comment=Open Lara Web App
+Exec=/home/pi/WebApps/webapps/Scripts/OpenLara.sh
+Icon=/home/pi/WebApps/webapps/icons/OpenLara.png
+Path=
+Categories=Other;
+Terminal=false
+StartupNotify=false

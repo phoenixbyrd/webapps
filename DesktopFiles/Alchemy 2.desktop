@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Alchemy 2
+Comment=Alchemy 2 Web App
+Exec=/home/pi/WebApps/webapps/Scripts/alchemy2.sh
+Icon=/home/pi/WebApps/webapps/icons/alchemy2.png
+Path=
+Terminal=false
+StartupNotify=false

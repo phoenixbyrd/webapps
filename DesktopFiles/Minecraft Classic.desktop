@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Minecraft Classic
+Comment=Minecraft Classic Web App
+Exec=/home/pi/WebApps/webapps/Scripts/minecraft.sh
+Icon=/home/pi/WebApps/webapps/icons/minecraft.png
+Path=
+Terminal=false
+StartupNotify=false

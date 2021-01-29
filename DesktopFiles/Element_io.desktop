@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Element.io
+Comment=Element.io Web App
+Exec=/home/pi/WebApps/webapps/Scripts/elementio.sh
+Icon=/home/pi/WebApps/webapps/icons/element.svg
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Whats App
+Comment=Whats App Web App
+Exec=/home/pi/WebApps/webapps/Scripts/WhatsApp.sh
+Icon=/home/pi/WebApps/webapps/icons/WhatsApp.png
+Path=
+Categories=Other;
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mini Royale 2
+Comment=Mini Royale 2 Web App
+Exec=/home/pi/WebApps/webapps/Scripts/MiniRoyale2.sh
+Icon=/home/pi/WebApps/webapps/icons/miniroyale2.png
+Path=
+Categories=Other;
+Terminal=false
+StartupNotify=false
