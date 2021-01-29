@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Bandlab
+Comment=Bandlab Web App
+Exec=/home/pi/WebApps/webapps/Scripts/bandlab.sh
+Icon=/home/pi/WebApps/webapps/icons/bandlab.png
+Path=
+Terminal=false
+StartupNotify=false

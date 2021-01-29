@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mahjong 3D
+Comment=Mahjon 3D Web App
+Exec=/home/pi/WebApps/webapps/Scripts/mahjong3d.sh
+Icon=/home/pi/WebApps/webapps/icons/Mahjong3d.jpg
+Path=
+Terminal=false
+StartupNotify=false

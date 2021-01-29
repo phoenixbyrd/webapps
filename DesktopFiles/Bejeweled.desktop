@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Bejeweled
+Comment=Bejeweled Web App
+Exec=/home/pi/WebApps/webapps/Scripts/bejeweled.sh
+Icon=/home/pi/WebApps/webapps/icons/bejeweled.png
+Path=
+Terminal=false
+StartupNotify=false

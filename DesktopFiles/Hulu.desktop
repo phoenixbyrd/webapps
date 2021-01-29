@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hulu
+Comment=Hulu Web App
+Exec=/home/pi/WebApps/webapps/Scripts/hulu.sh
+Icon=/home/pi/WebApps/webapps/icons/hulu.jpg
+Path=
+Categories=Other;
+Terminal=false
+StartupNotify=false
