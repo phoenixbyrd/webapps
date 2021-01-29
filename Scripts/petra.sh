@@ -1,2 +1,0 @@
-#!/bin/bash
-chromium-browser --user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.90 Safari/537.36" --user-data-dir=/home/pi/.config/webapps/petra --app=https://www.google.com/maps/about/behind-the-scenes/streetview/treks/petra/#explore-overview --window-size=1024,768
