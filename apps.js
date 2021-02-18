@@ -322,3 +322,23 @@ function openDisney() {
   myWindow = window.open("", "", "width=1200, height=800");
   myWindow.location.href = "https://www.disneyplus.com/";
 }
+
+function openBitwarden() {
+  myWindow = window.open("", "", "width=800, height=600");
+  myWindow.location.href = "https://vault.bitwarden.com/#/vault";
+}
+
+function openEvernote() {
+  myWindow = window.open("", "", "width=1200, height=800");
+  myWindow.location.href = "https://www.evernote.com/client/web";
+}
+
+function openPocket() {
+  myWindow = window.open("", "", "width=800, height=600");
+  myWindow.location.href = "https://getpocket.com/my-list";
+}
+
+function openCryptovoxels() {
+  myWindow = window.open("", "", "width=800, height=600");
+  myWindow.location.href = "https://www.cryptovoxels.com/play";
+}
