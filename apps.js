@@ -342,3 +342,8 @@ function openCryptovoxels() {
   myWindow = window.open("", "", "width=800, height=600");
   myWindow.location.href = "https://www.cryptovoxels.com/play";
 }
+
+function openTwitch() {
+  myWindow = window.open("", "", "width=1200, height=800");
+  myWindow.location.href = "https://www.twitch.tv/";
+}
