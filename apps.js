@@ -362,3 +362,8 @@ function openCrackle() {
   myWindow = window.open("", "", "width=1200, height=800");
   myWindow.location.href = "https://www.crackle.com/";
 }
+
+function openTetrio() {
+  myWindow = window.open("", "", "width=1200, height=900");
+  myWindow.location.href = "https://tetr.io/";
+}
