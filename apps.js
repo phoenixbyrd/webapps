@@ -367,3 +367,8 @@ function openTetrio() {
   myWindow = window.open("", "", "width=1200, height=900");
   myWindow.location.href = "https://tetr.io/";
 }
+
+function openLiero() {
+  myWindow = window.open("", "", "width=1200, height=900");
+  myWindow.location.href = "https://www.webliero.com/";
+}
