@@ -372,3 +372,8 @@ function openLiero() {
   myWindow = window.open("", "", "width=1200, height=900");
   myWindow.location.href = "https://www.webliero.com/";
 }
+
+function openFlappy() {
+  myWindow = window.open("", "", "width=600, height=800");
+  myWindow.location.href = "https://playcanv.as/p/2OlkUaxF/";
+}
