@@ -377,3 +377,8 @@ function openFlappy() {
   myWindow = window.open("", "", "width=600, height=800");
   myWindow.location.href = "https://playcanv.as/p/2OlkUaxF/";
 }
+
+function openUnlocked() {
+  myWindow = window.open("", "", "width=1200, height=900");
+  myWindow.location.href = "https://unlocked.conneath.gq/games/";
+}
