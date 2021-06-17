@@ -382,3 +382,8 @@ function openUnlocked() {
   myWindow = window.open("", "", "width=1200, height=900");
   myWindow.location.href = "https://unlocked.conneath.gq/games/";
 }
+
+function openBlockbench() {
+  myWindow = window.open("", "", "width=1200, height=900");
+  myWindow.location.href = "https://web.blockbench.net/";
+}
