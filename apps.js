@@ -387,3 +387,8 @@ function openBlockbench() {
   myWindow = window.open("", "", "width=1200, height=900");
   myWindow.location.href = "https://web.blockbench.net/";
 }
+
+function openDocs() {
+  myWindow = window.open("", "", "width=1500, height=900");
+  myWindow.location.href = "https://docs.google.com/document/u/0/";
+}
