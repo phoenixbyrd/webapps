@@ -392,3 +392,8 @@ function openDocs() {
   myWindow = window.open("", "", "width=1500, height=900");
   myWindow.location.href = "https://docs.google.com/document/u/0/";
 }
+
+function open96() {
+  myWindow = window.open("", "", "width=1080, height=1920");
+  myWindow.location.href = "https://windows96.net";
+}
