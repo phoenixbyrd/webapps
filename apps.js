@@ -367,3 +367,33 @@ function openTetrio() {
   myWindow = window.open("", "", "width=1200, height=900");
   myWindow.location.href = "https://tetr.io/";
 }
+
+function openLiero() {
+  myWindow = window.open("", "", "width=1200, height=900");
+  myWindow.location.href = "https://www.webliero.com/";
+}
+
+function openFlappy() {
+  myWindow = window.open("", "", "width=600, height=800");
+  myWindow.location.href = "https://playcanv.as/p/2OlkUaxF/";
+}
+
+function openUnlocked() {
+  myWindow = window.open("", "", "width=1200, height=900");
+  myWindow.location.href = "https://unlocked.conneath.gq/games/";
+}
+
+function openBlockbench() {
+  myWindow = window.open("", "", "width=1200, height=900");
+  myWindow.location.href = "https://web.blockbench.net/";
+}
+
+function openDocs() {
+  myWindow = window.open("", "", "width=1500, height=900");
+  myWindow.location.href = "https://docs.google.com/document/u/0/";
+}
+
+function open96() {
+  myWindow = window.open("", "", "width=1080, height=1920");
+  myWindow.location.href = "https://windows96.net";
+}
