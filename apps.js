@@ -210,7 +210,7 @@ function openOutlook() {
 
 function openZoom() {
   myWindow = window.open("", "", "width=600, height=800");
-  myWindow.location.href = "https://us04web.zoom.us/";
+  myWindow.location.href = "https://pwa.zoom.us/wc";
 }
 
 function openDiscUS() {
