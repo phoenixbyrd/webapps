@@ -145,7 +145,7 @@ function openVaporboy() {
 
 function openAnime() {
   myWindow = window.open("", "", "width=1500, height=900");
-  myWindow.location.href = "https://animesuge.io/";
+  myWindow.location.href = "https://animesuge.to/";
 }
 
 function openDiscord() {
